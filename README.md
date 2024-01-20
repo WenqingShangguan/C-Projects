@@ -1,4 +1,3 @@
-#C++ Projects
-First UseTest 
+# C++ Projects 
 
 C++ Project
